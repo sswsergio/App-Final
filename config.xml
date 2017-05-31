@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<widget xmlns = "http://www.w3.org/ns/widgets"
+    xmlns:gap = "http://phonegap.com/ns/1.0"
+    id        = "com.phonegap.aems"
+    version   = "1.0.0">
+
+<name>Aplicación Final PhoneGap - Sergio Leyva</name>
+
+<description>
+    Aplicación Final creada con JQuery Mobile y PhoneGap, mediante Dreamweaver CS6 by Sergio Leyva Mayo de 2017
+</description>
+
+<author href="https://example.com" email="sergioleyva8@hotmail.com">
+    Sergio Leyva
+</author>
+
+ <icon src="images/pokebola.png" platform="ios" width="57" height="57" density="mdpi" />
+
+
+</widget>
